@@ -1,0 +1,19 @@
+# Local Python environments and caches
+sdn-env/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+# Generated fixtures and experiment output
+content/
+results/
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Historical working copies
+backups/
+simple_switch_13.p
+simple_switch_13.p[ ]

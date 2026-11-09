@@ -1,0 +1,5 @@
+timestamp,event,switch,port
+1794147795.71198,port_change,2,2
+1794147795.717408,port_change,5,4
+1794147804.9588587,port_change,5,4
+1794147804.9596164,port_change,2,2

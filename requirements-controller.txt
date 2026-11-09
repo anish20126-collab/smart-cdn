@@ -1,0 +1,2 @@
+# Controller environment; Mininet and Matplotlib use system packages.
+os-ken==4.2.2

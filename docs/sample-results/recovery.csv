@@ -1,0 +1,3 @@
+timestamp,scenario,recovered,recovery_s
+1794147788.7737272,server-failure,True,1.9598480260001452
+1794147796.7598581,link-failure,True,1.053973668999788

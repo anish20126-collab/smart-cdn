@@ -1,0 +1,13 @@
+{
+  "all_six_clients": true,
+  "multiple_servers": true,
+  "image.jpg": true,
+  "music.mp3": true,
+  "video.mp4": true,
+  "congestion_requests": true,
+  "server_recovered": true,
+  "failed_server_avoided": true,
+  "link_recovered": true,
+  "link_failure_requests": true,
+  "restored_requests": true
+}
